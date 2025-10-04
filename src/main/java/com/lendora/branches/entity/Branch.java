@@ -22,3 +22,4 @@ public class Branch {
     @Column(nullable = true, length = 180)
     private String address;
 }
+
