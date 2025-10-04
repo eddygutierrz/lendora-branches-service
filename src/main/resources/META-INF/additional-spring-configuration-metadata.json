@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "lendora.security.jwt.issuer",
+    "type": "java.lang.String",
+    "description": "A description for 'lendora.security.jwt.issuer'"
+  },
+  {
+    "name": "lendora.security.jwt.expected-audience",
+    "type": "java.lang.String",
+    "description": "A description for 'lendora.security.jwt.expected-audience'"
+  }
+]}
